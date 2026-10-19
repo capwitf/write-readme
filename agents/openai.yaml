@@ -1,0 +1,4 @@
+interface:
+  display_name: "README Writer"
+  short_description: "Create polished GitHub README home pages"
+  default_prompt: "Use $write-readme to draft or rewrite a polished GitHub README with clear structure, accurate usage, and release or contact details in the right place."

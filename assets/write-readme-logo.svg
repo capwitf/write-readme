@@ -1,0 +1,7 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Write Readme</title>
+  <desc id="desc">A black circular logo with WR letters for the Write Readme Codex skill.</desc>
+  <circle cx="128" cy="128" r="112" fill="#050505"/>
+  <path d="M66 73h24l18 83 23-83h20l23 83 18-83h24l-31 110h-22l-22-78-22 78H97L66 73Z" fill="#ffffff"/>
+  <path d="M151 74h39c25 0 41 14 41 36 0 16-8 28-22 33l27 40h-27l-23-36h-13v36h-22V74Zm22 20v34h16c12 0 19-6 19-17 0-10-7-17-19-17h-16Z" fill="#8fd3ff"/>
+</svg>
