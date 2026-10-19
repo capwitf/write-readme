@@ -16,6 +16,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/capwitf/write-readme/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/capwitf/write-readme?style=flat-square"></a>
+  <a href="https://github.com/capwitf/write-readme/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/capwitf/write-readme?style=flat-square"></a>
+  <a href="https://github.com/capwitf/write-readme/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/capwitf/write-readme?style=flat-square"></a>
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/capwitf/write-readme?style=flat-square"></a>
+</p>
+
+<p align="center">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img alt="shields.io" src="https://img.shields.io/badge/shields.io-000000?style=for-the-badge&logo=shieldsdotio&logoColor=white">
