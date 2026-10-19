@@ -23,7 +23,7 @@ Do not treat README edits as mere release plumbing. If the README is touched, ch
    - Library/framework: summary, install, quick example, documentation, examples, contributing, license.
    - App/tool: summary, preview, features, install/download, usage, FAQ, development, license.
    - Skill/plugin: purpose, trigger examples, workflow, bundled resources, installation, validation, contact.
-4. Start with a clear title and one-line summary, then give a short feature or highlight list.
+4. Start with a clear title and one-line summary, add a compact badge row near the top, then give a short feature or highlight list.
 5. Add a quick-start or usage path early enough that a reader can try the project without hunting.
 6. Show a preview or screenshot early when visual assets exist.
 7. Put release, download, or installer links in a dedicated section near the end unless the user explicitly wants them upfront.
@@ -37,6 +37,7 @@ Do not treat README edits as mere release plumbing. If the README is touched, ch
 Use `references/readme-blueprint.md` when drafting or restructuring a full README. It summarizes patterns from high-star repositories such as React, Next.js, Vite, and shadcn/ui:
 
 - State what the project is in the first screen.
+- Include a compact badge row in every README by default. At minimum, use a verified Markdown format badge; add project-specific badges only when their facts and destinations are confirmed.
 - For branded projects, consider a centered hero header: logo, project name, one-line summary, and a compact badge/action row before the first section.
 - For GitHub stats, use dynamic shields.io badges for stars, forks, issues, pull requests, release/version, license, downloads, or supported platforms when the repo slug is known.
 - For technology stacks, add a compact badge strip for confirmed languages, frameworks, runtimes, package managers, databases, cloud services, or platforms.
@@ -48,7 +49,8 @@ Use `references/readme-blueprint.md` when drafting or restructuring a full READM
 ## Style Rules
 
 - Mirror the feel of `Clash Verge`-style READMEs: language switcher first, preview early, release info later, and a clean section hierarchy.
-- Use plain Markdown links for navigation and downloads. Avoid badges unless the user asks for them.
+- Use plain Markdown links for navigation and downloads. Include badges by default unless the user explicitly requests a badge-free README.
+- Start the badge row with a factual Markdown format badge, for example: `![Markdown](https://img.shields.io/badge/format-Markdown-000000?logo=markdown&logoColor=white)`. When verified, add dynamic repository statistics, license, release, platform, or technology badges that link to the relevant page.
 - Keep download links near the bottom when the user prefers that layout.
 - If the project is bilingual, either split the README into parallel Chinese/English sections or provide separate `README_zh.md` and `README_en.md` files with a small top switcher.
 - Keep the prose concise, concrete, and copy-ready. Do not over-explain.

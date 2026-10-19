@@ -37,6 +37,7 @@
 
 - 参考 React、Next.js、Vite、shadcn/ui 等高星仓库的组织方式
 - 默认保留顶部语言导航和清晰的章节层级
+- 每份 README 默认在顶部加入紧凑徽章行，至少包含真实的 Markdown 格式徽章
 - 区分库、应用、CLI、Codex skill 等不同项目类型
 - 避免伪造徽章、命令、截图、下载地址和兼容性声明
 - 在仓库地址已知时，使用 shields.io 动态同步 stars、forks、issues、pulls、release、downloads 等徽章
@@ -141,6 +142,7 @@ python C:\Users\T\.codex\skills\.system\skill-creator\scripts\quick_validate.py 
 
 - README structure inspired by high-star repositories such as React, Next.js, Vite, and shadcn/ui
 - Clear section ordering for libraries, apps, CLIs, and Codex skills
+- A compact badge row in every README by default, including at least a factual Markdown format badge
 - Strong defaults for language links, previews, install commands, usage, releases, and license sections
 - Guardrails against invented badges, commands, screenshots, URLs, or compatibility claims
 - Dynamic shields.io GitHub badges for stars, forks, issues, pull requests, releases, and downloads when the GitHub `OWNER/REPO` is known
